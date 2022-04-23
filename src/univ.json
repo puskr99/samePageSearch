@@ -1,0 +1,114 @@
+[
+    {
+        "id":1,
+        "name":"Harvard University",
+        "location":"Cambridge, MA",
+        "short_desc":"Harvard university is the destination place for many students.",
+        "image":"https://img.etimg.com/thumb/width-640,height-480,imgsize-214466,resizemode-1,msid-72040606/industry/services/education/35-european-universities-to-take-part-in-higher-education-fair/foreign-college-agencies.jpg"
+
+    },
+    {
+        "id":2,
+        "name":"Kathmandu University",
+        "location":"Dhulikhel, Kavre",
+        "short_desc":"Harvard university is the destination place for many students.",
+        "image":"https://content.thriveglobal.com/wp-content/uploads/2019/04/Best-Universities-in-the-World-for-International-Students.jpeg"
+
+    },
+    {
+        "id":3,
+        "name":"Pokhara University",
+        "location":"Pokahar, Nepal",
+        "short_desc":"Harvard university is the destination place for many students.",
+        "image":"https://www.indiaeducation.net/imagesvr_ce/2936/conventionCentre_jawaharlaluniversity_jnu.jpg"
+
+    },
+    {
+        "id":4,
+        "name":"Tribhuwan University",
+        "location":"Cambridge, MA",
+        "short_desc":"Harvard university is the destination place for many students.",
+        "image":"https://evanevanstours.com/blog/wp-content/uploads/2020/01/uk-oldest-universities-1200x900.jpg"
+    },
+    {
+        "id":5,
+        "name":"Purwanchal University",
+        "location":"Cambridge, MA",
+        "short_desc":"Harvard university is the destination place for many students.",
+        "image":"https://www.timeshighereducation.com/sites/default/files/stanford-university-best-universities-in-the-united-states-2016.jpg"
+
+    },
+    {
+        "id":6,
+        "name":"Oxford University",
+        "location":"Cambridge, MA",
+        "short_desc":"Harvard university is the destination place for many students.",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6AuW-n1G2hENKaAe7D1_IG1XI_SvdFdvzw&usqp=CAU"
+
+    },
+    {
+        "id":7,
+        "name":"Chennai State University",
+        "location":"Cambridge, MA",
+        "short_desc":"Harvard university is the destination place for many students.",
+        "image":"https://static.studyusa.com/article/cdn__46wCi25NND5ouChzzwovViwtWOm91zh.jpg"
+
+    },
+    {
+        "id":8,
+        "name":"ABC University",
+        "location":"Cambridge, MA",
+        "short_desc":"Harvard university is the destination place for many students.",
+        "image":"https://img.etimg.com/thumb/width-640,height-480,imgsize-214466,resizemode-1,msid-72040606/industry/services/education/35-european-universities-to-take-part-in-higher-education-fair/foreign-college-agencies.jpg"
+
+    },
+    {
+        "id":9,
+        "name":"PQR University",
+        "location":"Dhulikhel, Kavre",
+        "short_desc":"Harvard university is the destination place for many students.",
+        "image":"https://content.thriveglobal.com/wp-content/uploads/2019/04/Best-Universities-in-the-World-for-International-Students.jpeg"
+
+    },
+    {
+        "id":10,
+        "name":"XYZ University",
+        "location":"Pokahar, Nepal",
+        "short_desc":"Harvard university is the destination place for many students.",
+        "image":"https://www.indiaeducation.net/imagesvr_ce/2936/conventionCentre_jawaharlaluniversity_jnu.jpg"
+
+    },
+    {
+        "id":11,
+        "name":"Assam University",
+        "location":"Cambridge, MA",
+        "short_desc":"Harvard university is the destination place for many students.",
+        "image":"https://evanevanstours.com/blog/wp-content/uploads/2020/01/uk-oldest-universities-1200x900.jpg"
+    },
+    {
+        "id":12,
+        "name":"Kolkata University",
+        "location":"Cambridge, MA",
+        "short_desc":"Harvard university is the destination place for many students.",
+        "image":"https://www.timeshighereducation.com/sites/default/files/stanford-university-best-universities-in-the-united-states-2016.jpg"
+
+    },
+    {
+        "id":13,
+        "name":"Sydney University",
+        "location":"Cambridge, MA",
+        "short_desc":"Harvard university is the destination place for many students.",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6AuW-n1G2hENKaAe7D1_IG1XI_SvdFdvzw&usqp=CAU"
+
+    },
+    {
+        "id":14,
+        "name":"Delhi State University",
+        "location":"Cambridge, MA",
+        "short_desc":"Harvard university is the destination place for many students.",
+        "image":"https://static.studyusa.com/article/cdn__46wCi25NND5ouChzzwovViwtWOm91zh.jpg"
+
+    }
+
+
+]
